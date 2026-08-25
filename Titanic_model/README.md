@@ -42,7 +42,7 @@ streamlit run app.py
 
 After deploying on Streamlit Community Cloud, replace the placeholder below with your live URL:
 
-**Live Demo:** `https://task10titanic-survival-prediction-nmce6xr72tpfazg4hqxyuo.streamlit.app/`
+**Live Demo:** https://task10titanic-survival-prediction-nmce6xr72tpfazg4hqxyuo.streamlit.app/
 
 ## 🚀 Streamlit Community Cloud Deployment
 
